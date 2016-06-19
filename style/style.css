@@ -1,0 +1,16 @@
+#appContainer {
+	text-align: center;
+}
+
+#countDisplay {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#btnDec {
+	margin-right: 5px;
+}
+
+#btnInc {
+margin-left: 5px;
+}
